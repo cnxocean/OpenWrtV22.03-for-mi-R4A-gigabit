@@ -1,3 +1,17 @@
+
+
+
+
+2022.11.11 Copy repository, not yet modified，cannot be used
+
+
+
+
+
+
+from p3terx project
+
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
