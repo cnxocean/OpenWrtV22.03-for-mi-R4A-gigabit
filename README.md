@@ -1,6 +1,6 @@
 
 
-
+2022.11.13 pudate .config & diy-part2.sh ,biuld success now.
 
 2022.11.11 Copy repository, not yet modified，cannot be used
 
