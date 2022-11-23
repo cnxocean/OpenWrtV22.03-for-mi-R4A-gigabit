@@ -1,4 +1,4 @@
-
+2022.11.23 creat tag v1.0 all workflows DONE
 
 2022.11.13 pudate .config & diy-part2.sh ,biuld success now.
 
